@@ -50,3 +50,8 @@ Yeni kayıtlar en alta eklenir; aktarılınca başına "→ aktarıldı" yazıl�
 ### 2026-11-05 · Claude Code (bulut) · tüm projeler
 - Yapılanlar: PROGRESS düzeni kuruldu; mutabakat-platform, robbot-dijital-sirket, tahsila-platform, servis-kapinda, dijital-sirket-moduller depolarına PROGRESS.md, AGENTS.md ve CLAUDE.md kuralı eklendi; Claude GitHub uygulamasına bu depoya erişim verildi.
 - Sıradaki: claude.ai profil tercihleri, Cowork ve ChatGPT talimatlarına kural metni yapıştırılacak.
+
+### 2026-11-05 · Claude Code (bulut, ana oturum) · mutabakat-platform
+- Yapılanlar: claude.ai "Claude için talimatlar"a PROGRESS kuralı eklendi. Ekstre motoru regresyon seti kalıcı yapıldı: betikler depoda `scripts/regresyon/`, veri (23 karşılaştırma + referans çıktı) Hüseyin'in bilgisayarında `Belgeler\mutabakat-regresyon-seti`.
+- Karar: motor ve tasarım işleri ayrı oturumlarda; ana oturum kapatılmaz.
+- Sıradaki: ChatGPT talimatı (isteğe bağlı, sonra).
