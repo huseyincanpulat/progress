@@ -46,3 +46,7 @@ Bu dosya bütün projelerin giriş noktası. Her projenin ayrıntısı kendi dep
 
 ## Gelen kayıtlar
 Yeni kayıtlar en alta eklenir; aktarılınca başına "→ aktarıldı" yazılır.
+
+### 2026-11-05 · Claude Code (bulut) · tüm projeler
+- Yapılanlar: PROGRESS düzeni kuruldu; mutabakat-platform, robbot-dijital-sirket, tahsila-platform, servis-kapinda, dijital-sirket-moduller depolarına PROGRESS.md, AGENTS.md ve CLAUDE.md kuralı eklendi; Claude GitHub uygulamasına bu depoya erişim verildi.
+- Sıradaki: claude.ai profil tercihleri, Cowork ve ChatGPT talimatlarına kural metni yapıştırılacak.
