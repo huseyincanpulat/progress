@@ -1,6 +1,8 @@
 # PROGRESS — Merkez (tüm projeler)
 
-**Son güncelleme:** 2026-11-05
+**Son güncelleme:** 2026-11-06
+
+**Yeni oturum mu?** Önce [YENI-OTURUM.md](YENI-OTURUM.md): bilgisayara bağlı açma, depolar, kurallar, yayın düzeni, Melis robotları ve kendiliğinden çalışan izleme.
 
 Bu dosya bütün projelerin giriş noktası. Her projenin ayrıntısı kendi deposundaki PROGRESS.md'de.
 
