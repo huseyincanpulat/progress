@@ -73,3 +73,4 @@ Yeni kayıtlar en alta eklenir; aktarılınca başına "→ aktarıldı" yazıl�
 - Emil Kowalski tasarım skill'leri depoya eklendi; site bu kurallarla elden geçirildi; yönetim paneli (giriş, talepler, işlem kayıtları) yazıldı ve pushlandı.
 - Yönetim paneli canlıda: Hüseyin giriş yaptı, talepler listesi çalışıyor.
 - Site yeniden tasarlandı (2. sürüm): yeni giriş, örnek operasyon ekranı, önce/sonra karşılaştırması, sık sorulan sorular, zemin ve cam hizmet sayfaları, arama motoru ayarları. Sitedeki iki vaat (bir iş günü içinde arama, ücretsiz keşif) Hüseyin'in onayını bekliyor.
+- ui-ux-pro-max rehberiyle site ve panel denetlendi: cep menüsü, odak ve kontrast, dokunma hedefleri, form hata özeti, panelde bekleme göstergeleri ve şifre göster/gizle eklendi.
