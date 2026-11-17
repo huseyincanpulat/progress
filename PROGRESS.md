@@ -12,7 +12,7 @@ Bu dosya bütün projelerin giriş noktası. Her projenin ayrıntısı kendi dep
 - mutabakat-platform: Google Search Console'da 8 yeni /rehber sayfası için "Dizine eklenmesini iste".
 - robbot-dijital-sirket: Supabase + Vercel kurulumu yapılmadı (demo modunda).
 - kronnika-ikiz: Kıvanç'a devir tamam mı (GitHub aktarımı / Vercel projesi)? Teyit et.
-- robotik-temizlik (Pırıl): panel kurulumu (002_yonetim.sql, Authentication kullanıcısı, kullanicilar satırı); KVKK metni avukat onayı; alan adı ve marka tescili kontrolü; CIT A.Ş. amaç-konu / faaliyet kodu kontrolü; tedarikçi teklifleri.
+- robotik-temizlik (Pırıl): KVKK metni avukat onayı; alan adı ve marka tescili kontrolü; CIT A.Ş. amaç-konu / faaliyet kodu kontrolü; tedarikçi teklifleri.
 
 ## Projeler bir bakışta
 | Proje | Ne | Depo | Canlı adres | Durum |
@@ -23,7 +23,7 @@ Bu dosya bütün projelerin giriş noktası. Her projenin ayrıntısı kendi dep
 | tahsila-platform | Tahsila: alacak yönetimi, tahsilat, itiraz, kredi riski (SaaS) | huseyincanpulat/tahsila-platform | ? | Faz 1 + kredi riski tamam (19.10'dan beri bekliyor) |
 | servis-kapinda | Servis Kapında: beyaz eşya / ev arızası acil servis yönlendirme | huseyincanpulat/servis-kapinda | ? | Demo (28.10'dan beri bekliyor) |
 | kronnika-ikiz | Kronnika Dijital Şirket demosu | huseyincanpulat/kronnika-ikiz | kronnika-dijital-sirket.vercel.app | 31.10'da Kıvanç'a devredildi; bu düzene alınmadı |
-| robotik-temizlik | Robotik temizlik şirketi (çalışma adı: Robotic Cleaning – Smart Facility Services): robotik zemin + cam temizliği ve şirketi yöneten platform | huseyincanpulat/robotik-temizlik | robotik-temizlik.vercel.app | Marka: Pırıl. Site yayında, form kayıt alıyor; yönetim paneli (talepler) depoda, kurulum bekliyor |
+| robotik-temizlik | Robotik temizlik şirketi (çalışma adı: Robotic Cleaning – Smart Facility Services): robotik zemin + cam temizliği ve şirketi yöneten platform | huseyincanpulat/robotik-temizlik | robotik-temizlik.vercel.app | Marka: Pırıl. Site yayında, form kayıt alıyor; yönetim paneli (talepler) canlıda |
 | kronnika-dijital-sirket | Kıvanç'ın Kronnika deposu | KivancSurel/kronnika-dijital-sirket | – | Kıvanç'ın; bu düzene alınmadı |
 
 ## Ortak altyapı
@@ -71,3 +71,4 @@ Yeni kayıtlar en alta eklenir; aktarılınca başına "→ aktarıldı" yazıl�
 - Vercel projesi kuruldu, site yayında: robotik-temizlik.vercel.app.
 - Supabase projesi (robotik-temizlik) bağlandı; canlı formdan deneme talebi başarıyla gönderildi.
 - Emil Kowalski tasarım skill'leri depoya eklendi; site bu kurallarla elden geçirildi; yönetim paneli (giriş, talepler, işlem kayıtları) yazıldı ve pushlandı.
+- Yönetim paneli canlıda: Hüseyin giriş yaptı, talepler listesi çalışıyor.
