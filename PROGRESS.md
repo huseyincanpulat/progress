@@ -23,7 +23,7 @@ Bu dosya bütün projelerin giriş noktası. Her projenin ayrıntısı kendi dep
 | tahsila-platform | Tahsila: alacak yönetimi, tahsilat, itiraz, kredi riski (SaaS) | huseyincanpulat/tahsila-platform | ? | Faz 1 + kredi riski tamam (19.10'dan beri bekliyor) |
 | servis-kapinda | Servis Kapında: beyaz eşya / ev arızası acil servis yönlendirme | huseyincanpulat/servis-kapinda | ? | Demo (28.10'dan beri bekliyor) |
 | kronnika-ikiz | Kronnika Dijital Şirket demosu | huseyincanpulat/kronnika-ikiz | kronnika-dijital-sirket.vercel.app | 31.10'da Kıvanç'a devredildi; bu düzene alınmadı |
-| robotik-temizlik | Robotik temizlik şirketi (çalışma adı: Robotic Cleaning – Smart Facility Services): robotik zemin + cam temizliği ve şirketi yöneten platform | huseyincanpulat/robotik-temizlik | robotik-temizlik.vercel.app | Marka: Pırıl. Site 2. sürüm (yeni tasarım, hizmet sayfaları, SSS) yayında, form kayıt alıyor; yönetim paneli (talepler) canlıda |
+| robotik-temizlik | Robotik temizlik şirketi (çalışma adı: Robotic Cleaning – Smart Facility Services): robotik zemin + cam temizliği ve şirketi yöneten platform | huseyincanpulat/robotik-temizlik | robotik-temizlik.vercel.app | Marka: Pırıl. Site 3. sürüm (sinematik, temsili fotoğraflı) yayında, form kayıt alıyor; yönetim paneli (talepler) canlıda |
 | kronnika-dijital-sirket | Kıvanç'ın Kronnika deposu | KivancSurel/kronnika-dijital-sirket | – | Kıvanç'ın; bu düzene alınmadı |
 
 ## Ortak altyapı
@@ -74,3 +74,4 @@ Yeni kayıtlar en alta eklenir; aktarılınca başına "→ aktarıldı" yazıl�
 - Yönetim paneli canlıda: Hüseyin giriş yaptı, talepler listesi çalışıyor.
 - Site yeniden tasarlandı (2. sürüm): yeni giriş, örnek operasyon ekranı, önce/sonra karşılaştırması, sık sorulan sorular, zemin ve cam hizmet sayfaları, arama motoru ayarları. Sitedeki iki vaat (bir iş günü içinde arama, ücretsiz keşif) Hüseyin'in onayını bekliyor.
 - ui-ux-pro-max rehberiyle site ve panel denetlendi: cep menüsü, odak ve kontrast, dokunma hedefleri, form hata özeti, panelde bekleme göstergeleri ve şifre göster/gizle eklendi.
+- Site 3. sürüm: Hüseyin'in seçimiyle sinematik, fotoğraflı tasarıma geçildi; 3 temsili görsel (yapay zekâ) eklendi ve etiketlendi.
