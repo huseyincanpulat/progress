@@ -23,7 +23,7 @@ Bu dosya bütün projelerin giriş noktası. Her projenin ayrıntısı kendi dep
 | tahsila-platform | Tahsila: alacak yönetimi, tahsilat, itiraz, kredi riski (SaaS) | huseyincanpulat/tahsila-platform | ? | Faz 1 + kredi riski tamam (19.10'dan beri bekliyor) |
 | servis-kapinda | Servis Kapında: beyaz eşya / ev arızası acil servis yönlendirme | huseyincanpulat/servis-kapinda | ? | Demo (28.10'dan beri bekliyor) |
 | kronnika-ikiz | Kronnika Dijital Şirket demosu | huseyincanpulat/kronnika-ikiz | kronnika-dijital-sirket.vercel.app | 31.10'da Kıvanç'a devredildi; bu düzene alınmadı |
-| robotik-temizlik | Robotik temizlik şirketi (çalışma adı: Robotic Cleaning – Smart Facility Services): robotik zemin + cam temizliği ve şirketi yöneten platform | huseyincanpulat/robotik-temizlik | robotik-temizlik.vercel.app | Marka: Pırıl. Site yayında, form kayıt alıyor; yönetim paneli (talepler) canlıda |
+| robotik-temizlik | Robotik temizlik şirketi (çalışma adı: Robotic Cleaning – Smart Facility Services): robotik zemin + cam temizliği ve şirketi yöneten platform | huseyincanpulat/robotik-temizlik | robotik-temizlik.vercel.app | Marka: Pırıl. Site 2. sürüm (yeni tasarım, hizmet sayfaları, SSS) yayında, form kayıt alıyor; yönetim paneli (talepler) canlıda |
 | kronnika-dijital-sirket | Kıvanç'ın Kronnika deposu | KivancSurel/kronnika-dijital-sirket | – | Kıvanç'ın; bu düzene alınmadı |
 
 ## Ortak altyapı
@@ -72,3 +72,4 @@ Yeni kayıtlar en alta eklenir; aktarılınca başına "→ aktarıldı" yazıl�
 - Supabase projesi (robotik-temizlik) bağlandı; canlı formdan deneme talebi başarıyla gönderildi.
 - Emil Kowalski tasarım skill'leri depoya eklendi; site bu kurallarla elden geçirildi; yönetim paneli (giriş, talepler, işlem kayıtları) yazıldı ve pushlandı.
 - Yönetim paneli canlıda: Hüseyin giriş yaptı, talepler listesi çalışıyor.
+- Site yeniden tasarlandı (2. sürüm): yeni giriş, örnek operasyon ekranı, önce/sonra karşılaştırması, sık sorulan sorular, zemin ve cam hizmet sayfaları, arama motoru ayarları. Sitedeki iki vaat (bir iş günü içinde arama, ücretsiz keşif) Hüseyin'in onayını bekliyor.
