@@ -1,6 +1,6 @@
 # PROGRESS — Merkez (tüm projeler)
 
-**Son güncelleme:** 2026-11-06
+**Son güncelleme:** 2026-11-17
 
 **Yeni oturum mu?** Önce [YENI-OTURUM.md](YENI-OTURUM.md): bilgisayara bağlı açma, depolar, kurallar, yayın düzeni, Melis robotları ve kendiliğinden çalışan izleme.
 
@@ -12,6 +12,7 @@ Bu dosya bütün projelerin giriş noktası. Her projenin ayrıntısı kendi dep
 - mutabakat-platform: Google Search Console'da 8 yeni /rehber sayfası için "Dizine eklenmesini iste".
 - robbot-dijital-sirket: Supabase + Vercel kurulumu yapılmadı (demo modunda).
 - kronnika-ikiz: Kıvanç'a devir tamam mı (GitHub aktarımı / Vercel projesi)? Teyit et.
+- robotik-temizlik: ön çalışma belgesi hazır; kapsam, şirket türü, kiralık pilot ve depo açılması kararları bekliyor.
 
 ## Projeler bir bakışta
 | Proje | Ne | Depo | Canlı adres | Durum |
@@ -22,6 +23,7 @@ Bu dosya bütün projelerin giriş noktası. Her projenin ayrıntısı kendi dep
 | tahsila-platform | Tahsila: alacak yönetimi, tahsilat, itiraz, kredi riski (SaaS) | huseyincanpulat/tahsila-platform | ? | Faz 1 + kredi riski tamam (19.10'dan beri bekliyor) |
 | servis-kapinda | Servis Kapında: beyaz eşya / ev arızası acil servis yönlendirme | huseyincanpulat/servis-kapinda | ? | Demo (28.10'dan beri bekliyor) |
 | kronnika-ikiz | Kronnika Dijital Şirket demosu | huseyincanpulat/kronnika-ikiz | kronnika-dijital-sirket.vercel.app | 31.10'da Kıvanç'a devredildi; bu düzene alınmadı |
+| robotik-temizlik | Robotik temizlik şirketi (çalışma adı: Robotic Cleaning – Smart Facility Services): robotik zemin + cam temizliği ve şirketi yöneten platform | henüz yok | – | Faz 1 ön çalışma belgesi hazır; karar bekliyor |
 | kronnika-dijital-sirket | Kıvanç'ın Kronnika deposu | KivancSurel/kronnika-dijital-sirket | – | Kıvanç'ın; bu düzene alınmadı |
 
 ## Ortak altyapı
@@ -57,3 +59,9 @@ Yeni kayıtlar en alta eklenir; aktarılınca başına "→ aktarıldı" yazıl�
 - Yapılanlar: claude.ai "Claude için talimatlar"a PROGRESS kuralı eklendi. Ekstre motoru regresyon seti kalıcı yapıldı: betikler depoda `scripts/regresyon/`, veri (23 karşılaştırma + referans çıktı) Hüseyin'in bilgisayarında `Belgeler\mutabakat-regresyon-seti`.
 - Karar: motor ve tasarım işleri ayrı oturumlarda; ana oturum kapatılmaz.
 - Sıradaki: ChatGPT talimatı (isteğe bağlı, sonra).
+
+### 2026-11-17 · claude.ai sohbet (bulut) · robotik-temizlik
+- Yapılanlar: Master prompt alındı. "Robotik Temizlik Şirketi – Kuruluş Öncesi Ön Çalışma" belgesi hazırlandı (claude.ai artifact, Docs): iş modeli, pazar ve rakipler, cam/zemin robot karşılaştırması ve puanlama, satın alma/finansman, başlangıç bütçesi, aylık gider, personel, 12 aylık projeksiyon, hukuk/İSG kontrol listesi, teknik mimari, veritabanı taslağı, ekran haritası, 8 fazlı takvim, 36 görev, pilot planı.
+- Ana bulgular: taşınabilir cam robotları ev tipi, yüksek dış cephe için uygun değil; zemin robotları Türkiye'de satılıyor ve kiralanıyor; ilk 12 ay kaynak ihtiyacı yaklaşık 7,4 milyon TL (varsayımlı model).
+- Karar (varsayım, onay bekliyor): ilk yıl kapsamı zemin + iç cephe cam; ilk robotlar kiralık pilotla; teknoloji Next.js + Supabase + Vercel.
+- Sıradaki: Hüseyin'in kararları (kapsam, şirket türü, pilot bölge, depo açılması); tedarikçi teklifleri; depo açılınca Faz 2 (marka, web sitesi, teklif formu) ve şema dosyaları.
