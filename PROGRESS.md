@@ -12,7 +12,7 @@ Bu dosya bütün projelerin giriş noktası. Her projenin ayrıntısı kendi dep
 - mutabakat-platform: Google Search Console'da 8 yeni /rehber sayfası için "Dizine eklenmesini iste".
 - robbot-dijital-sirket: Supabase + Vercel kurulumu yapılmadı (demo modunda).
 - kronnika-ikiz: Kıvanç'a devir tamam mı (GitHub aktarımı / Vercel projesi)? Teyit et.
-- robotik-temizlik: kararlar verildi (17.11); GitHub deposu açılacak, CIT A.Ş. esas sözleşme amaç-konu / faaliyet kodu mali müşavirle kontrol edilecek, tedarikçi teklifleri alınacak.
+- robotik-temizlik: marka adı kararı, Supabase + Vercel kurulumu, CIT A.Ş. esas sözleşme amaç-konu / faaliyet kodu kontrolü (mali müşavir), tedarikçi teklifleri.
 
 ## Projeler bir bakışta
 | Proje | Ne | Depo | Canlı adres | Durum |
@@ -23,7 +23,7 @@ Bu dosya bütün projelerin giriş noktası. Her projenin ayrıntısı kendi dep
 | tahsila-platform | Tahsila: alacak yönetimi, tahsilat, itiraz, kredi riski (SaaS) | huseyincanpulat/tahsila-platform | ? | Faz 1 + kredi riski tamam (19.10'dan beri bekliyor) |
 | servis-kapinda | Servis Kapında: beyaz eşya / ev arızası acil servis yönlendirme | huseyincanpulat/servis-kapinda | ? | Demo (28.10'dan beri bekliyor) |
 | kronnika-ikiz | Kronnika Dijital Şirket demosu | huseyincanpulat/kronnika-ikiz | kronnika-dijital-sirket.vercel.app | 31.10'da Kıvanç'a devredildi; bu düzene alınmadı |
-| robotik-temizlik | Robotik temizlik şirketi (çalışma adı: Robotic Cleaning – Smart Facility Services): robotik zemin + cam temizliği ve şirketi yöneten platform | henüz yok | – | Faz 1 ön çalışma belgesi hazır; kararlar verildi, depo bekliyor |
+| robotik-temizlik | Robotik temizlik şirketi (çalışma adı: Robotic Cleaning – Smart Facility Services): robotik zemin + cam temizliği ve şirketi yöneten platform | huseyincanpulat/robotik-temizlik | – | Faz 1 belgesi hazır, depo kuruldu; marka adı ve Supabase/Vercel bekliyor |
 | kronnika-dijital-sirket | Kıvanç'ın Kronnika deposu | KivancSurel/kronnika-dijital-sirket | – | Kıvanç'ın; bu düzene alınmadı |
 
 ## Ortak altyapı
@@ -66,3 +66,4 @@ Yeni kayıtlar en alta eklenir; aktarılınca başına "→ aktarıldı" yazıl�
 - Karar (varsayım, onay bekliyor): ilk yıl kapsamı zemin + iç cephe cam; ilk robotlar kiralık pilotla; teknoloji Next.js + Supabase + Vercel.
 - Sıradaki: Hüseyin'in kararları (kapsam, şirket türü, pilot bölge, depo açılması); tedarikçi teklifleri; depo açılınca Faz 2 (marka, web sitesi, teklif formu) ve şema dosyaları.
 - Kararlar (Hüseyin, 17.11): kapsam zemin + iç cephe cam; şirket CIT Alacak Yönetimi ve Risk Danışmanlık Hizmetleri A.Ş. üzerinden; robotlarda kiralama ve satın alma birlikte; pilot bölge Kartal ve Ataşehir iş merkezleri; depoyu Hüseyin açacak (ad: robotik-temizlik).
+- Depo açıldı (huseyincanpulat/robotik-temizlik); PROGRESS.md, CLAUDE.md, AGENTS.md ve docs/KARARLAR.md eklendi.
