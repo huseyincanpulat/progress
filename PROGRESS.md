@@ -11,7 +11,6 @@ Bu dosya bütün projelerin giriş noktası. Her projenin ayrıntısı kendi dep
 - mutabakat-platform: "Sistem sağlığı" sayfası için Supabase erişim anahtarı Vercel'e girilecek, sağlık tablosu SQL'i çalıştırılacak (yazılı sohbette "sistem sağlığı, başlayalım").
 - mutabakat-platform: Google Search Console'da 8 yeni /rehber sayfası için "Dizine eklenmesini iste".
 - robbot-dijital-sirket: Supabase + Vercel kurulumu yapılmadı (demo modunda).
-- kronnika-ikiz: Kıvanç'a devir tamam mı (GitHub aktarımı / Vercel projesi)? Teyit et.
 - robotik-temizlik (Pırıl): KVKK metni avukat onayı; alan adı ve marka tescili kontrolü; CIT A.Ş. amaç-konu / faaliyet kodu kontrolü; tedarikçi teklifleri.
 
 ## Projeler bir bakışta
@@ -22,7 +21,7 @@ Bu dosya bütün projelerin giriş noktası. Her projenin ayrıntısı kendi dep
 | dijital-sirket-moduller | Dijital Şirket modül paketleri (dalga 1–4) | huseyincanpulat/dijital-sirket-moduller | – | Paketler hazır |
 | tahsila-platform | Tahsila: alacak yönetimi, tahsilat, itiraz, kredi riski (SaaS) | huseyincanpulat/tahsila-platform | ? | Faz 1 + kredi riski tamam (19.10'dan beri bekliyor) |
 | servis-kapinda | Servis Kapında: beyaz eşya / ev arızası acil servis yönlendirme | huseyincanpulat/servis-kapinda | ? | Demo (28.10'dan beri bekliyor) |
-| kronnika-ikiz | Kronnika Dijital Şirket demosu | huseyincanpulat/kronnika-ikiz | kronnika-dijital-sirket.vercel.app | 31.10'da Kıvanç'a devredildi; bu düzene alınmadı |
+| kronnika-ikiz | Kronnika Dijital Şirket demosu | huseyincanpulat/kronnika-ikiz | kronnika-dijital-sirket.vercel.app | 31.10'da Kıvanç'a devredildi; devir tamam (Hüseyin, 20.11.2026) |
 | robotik-temizlik | Robotik temizlik şirketi (çalışma adı: Robotic Cleaning – Smart Facility Services): robotik zemin + cam temizliği ve şirketi yöneten platform | huseyincanpulat/robotik-temizlik | robotik-temizlik.vercel.app | Marka: Pırıl. Site 3. sürüm (sinematik, temsili fotoğraflı) yayında, form kayıt alıyor; yönetim paneli (talepler) canlıda |
 | kronnika-dijital-sirket | Kıvanç'ın Kronnika deposu | KivancSurel/kronnika-dijital-sirket | – | Kıvanç'ın; bu düzene alınmadı |
 
@@ -46,7 +45,6 @@ Bu dosya bütün projelerin giriş noktası. Her projenin ayrıntısı kendi dep
 
 ## Açık sorular (genel)
 - tahsila-platform ve servis-kapinda için canlı adres / Vercel projesi var mı?
-- kronnika-ikiz Hüseyin'in hesabında kalacak mı, Kıvanç'a aktarılacak mı?
 
 ## Gelen kayıtlar
 Yeni kayıtlar en alta eklenir; aktarılınca başına "→ aktarıldı" yazılır.
